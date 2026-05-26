@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
-  <rect x="3" y="3" width="54" height="54" fill="none" stroke="#C25450" stroke-width="3"/>
-  <rect x="7" y="7" width="46" height="46" fill="none" stroke="#C25450" stroke-width="1"/>
-  <text x="30" y="28" font-family="Microsoft YaHei, Songti SC, STSong, SimSun, serif" font-size="16" fill="#C25450" text-anchor="middle" dominant-baseline="middle">掠</text>
-  <text x="30" y="46" font-family="Microsoft YaHei, Songti SC, STSong, SimSun, serif" font-size="16" fill="#C25450" text-anchor="middle" dominant-baseline="middle">蓝</text>
-</svg>
