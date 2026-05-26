@@ -22,10 +22,11 @@
 
 <p align="center">
   <a href="https://github.com/Ylsssq926/clawclip">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ylsssq926&repo=clawclip&theme=transparent&hide_border=true&title_color=C850C0&text_color=6B7280&icon_color=4158D0" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:C850C0&height=80&section=header&text=clawclip%20%E2%AD%904&fontSize=24&fontColor=fff&fontAlignY=58" width="380"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Ylsssq926/relic.skill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ylsssq926&repo=relic.skill&theme=transparent&hide_border=true&title_color=C850C0&text_color=6B7280&icon_color=4158D0" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:C850C0,100:FFCC70&height=80&section=header&text=relic.skill%20%E2%AD%90141&fontSize=24&fontColor=fff&fontAlignY=58" width="380"/>
   </a>
 </p>
 
@@ -84,15 +85,6 @@
 另有几个项目正在私有开发中，准备好后会逐步开放。
 
 *Several projects are in private development. They will open up when ready.*
-
----
-
-## ✦ Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ylsssq926&show_icons=true&theme=transparent&hide_border=true&title_color=C850C0&text_color=6B7280&icon_color=4158D0&ring_color=C850C0" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Ylsssq926&theme=transparent&hide_border=true&ring=C850C0&fire=FFCC70&currStreakLabel=4158D0&sideLabels=6B7280&dates=9CA3AF" height="180"/>
-</p>
 
 ---
 
