@@ -13,10 +13,10 @@ AI 产品经理，独立开发者，住在武汉。
 | Project | Stats | Description |
 |---|---|---|
 | [clawclip](https://github.com/Ylsssq926/clawclip) | <nobr><a href="https://github.com/Ylsssq926/clawclip/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/Ylsssq926/clawclip?style=flat-square&logo=github&logoColor=white&label=stars&labelColor=24292f&color=ffdf5d"></a>&nbsp;<a href="https://github.com/Ylsssq926/clawclip/forks"><img alt="forks" src="https://img.shields.io/github/forks/Ylsssq926/clawclip?style=flat-square&logo=git&logoColor=white&label=forks&labelColor=24292f&color=54aeff"></a></nobr> | Cut your OpenClaw / ZeroClaw token bill. Find which model earns its cost. Local, no upload. |
-| [relic.skill](https://github.com/Ylsssq926/relic.skill) | <nobr><a href="https://github.com/Ylsssq926/relic.skill/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/Ylsssq926/relic.skill?style=flat-square&logo=github&logoColor=white&label=stars&labelColor=24292f&color=ffdf5d"></a>&nbsp;<a href="https://github.com/Ylsssq926/relic.skill/forks"><img alt="forks" src="https://img.shields.io/github/forks/Ylsssq926/relic.skill?style=flat-square&logo=git&logoColor=white&label=forks&labelColor=24292f&color=54aeff"></a></nobr> | 万物皆可 Relic · 给灵魂开个 GitHub 🧬 |
+| [relic.skill](https://github.com/Ylsssq926/relic.skill) | <nobr><img alt="stars" src="https://img.shields.io/badge/stars-150-ffdf5d?style=flat-square&logo=github&logoColor=white&labelColor=24292f">&nbsp;<a href="https://github.com/Ylsssq926/relic.skill/forks"><img alt="forks" src="https://img.shields.io/github/forks/Ylsssq926/relic.skill?style=flat-square&logo=git&logoColor=white&label=forks&labelColor=24292f&color=54aeff"></a></nobr> | 万物皆可 Relic · 给灵魂开个 GitHub 🧬 |
 | AI 简历工坊 | | 私有，开发中 |
 | 入戏 | | 沉浸式角色扮演体验，私有 |
-| 几个尚未公开的小产品 | | 含 galgame |
+| 几款独立游戏 | | 包括 galgame，开发中 |
 
 ---
 
@@ -38,25 +38,19 @@ AI 产品经理，独立开发者，住在武汉。
 |---|---|---|---|
 | LingChat | [#423](https://github.com/SlimeBoyOwO/LingChat/pull/423) | ✅ | webview crash multi-backend fallback |
 | LingChat | [#422](https://github.com/SlimeBoyOwO/LingChat/pull/422) | 🟢 | provider proxy support |
-| LingChat | [#424](https://github.com/SlimeBoyOwO/LingChat/pull/424) | 🟢 | streaming pipeline deadlock fix |
-| LingChat | [#426](https://github.com/SlimeBoyOwO/LingChat/pull/426) | 🟢 | legacy cache migration follow-up |
-| LingChat | [#427](https://github.com/SlimeBoyOwO/LingChat/pull/427) | 🟢 | schedule detail back button |
+| LingChat | [#424](https://github.com/SlimeBoyOwO/LingChat/pull/424) | ✅ | streaming pipeline deadlock fix |
+| LingChat | [#426](https://github.com/SlimeBoyOwO/LingChat/pull/426) | ✅ | legacy cache migration follow-up |
+| LingChat | [#427](https://github.com/SlimeBoyOwO/LingChat/pull/427) | ✅ | schedule detail back button |
 | Understand-Anything | [#237](https://github.com/Lum1104/Understand-Anything/pull/237) | 🟢 | port 5173 collision fix |
 | Understand-Anything | [#239](https://github.com/Lum1104/Understand-Anything/pull/239) | 🟢 | tsconfig paths resolution fix |
 | Understand-Anything | [#243](https://github.com/Lum1104/Understand-Anything/pull/243) | 🔴 | --exclude CLI flag (declined) |
-| boss-agent-cli | [#248](https://github.com/can4hou6joeng4/boss-agent-cli/pull/248) | 🟢 | CONTRIBUTING zh sync |
+| boss-agent-cli | [#248](https://github.com/can4hou6joeng4/boss-agent-cli/pull/248) | ✅ | CONTRIBUTING zh sync |
 | mcpproxy-go | [#531](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/531) | 🟢 | spec 057 in-proxy profiles draft |
 | Pipelex | [#937](https://github.com/Pipelex/pipelex/pull/937) | 🟢 | CLI --traceback flag |
 | Pipelex | [#936](https://github.com/Pipelex/pipelex/pull/936) | 🔴 | --traceback (reopened as #937) |
 | vercel/ai | [#15601](https://github.com/vercel/ai/pull/15601) | 🟢 | google-vertex multi-region endpoint |
 
 </details>
-
----
-
-### ⚡ Tech
-
-`TypeScript` · `Python` · `Go` · `Vue` · `Tauri` · `Next.js` · `Claude Code`
 
 ---
 
