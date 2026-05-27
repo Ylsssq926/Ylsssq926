@@ -13,7 +13,7 @@ AI 产品经理，独立开发者，住在武汉。
 | Project | Stats | Description |
 |---|---|---|
 | [clawclip](https://github.com/Ylsssq926/clawclip) | <nobr><a href="https://github.com/Ylsssq926/clawclip/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/Ylsssq926/clawclip?style=flat-square&logo=github&logoColor=white&label=stars&labelColor=24292f&color=ffdf5d"></a>&nbsp;<a href="https://github.com/Ylsssq926/clawclip/forks"><img alt="forks" src="https://img.shields.io/github/forks/Ylsssq926/clawclip?style=flat-square&logo=git&logoColor=white&label=forks&labelColor=24292f&color=54aeff"></a></nobr> | Cut your OpenClaw / ZeroClaw token bill. Find which model earns its cost. Local, no upload. |
-| [relic.skill](https://github.com/Ylsssq926/relic.skill) | <nobr><img alt="stars" src="https://img.shields.io/badge/stars-150-ffdf5d?style=flat-square&logo=github&logoColor=white&labelColor=24292f">&nbsp;<a href="https://github.com/Ylsssq926/relic.skill/forks"><img alt="forks" src="https://img.shields.io/github/forks/Ylsssq926/relic.skill?style=flat-square&logo=git&logoColor=white&label=forks&labelColor=24292f&color=54aeff"></a></nobr> | 万物皆可 Relic · 给灵魂开个 GitHub 🧬<br/>🏆 飞书 CLI 大赛人气赛道第一名 |
+| [relic.skill](https://github.com/Ylsssq926/relic.skill) | <nobr><img alt="stars" src="https://img.shields.io/badge/stars-150-ffdf5d?style=flat-square&logo=github&logoColor=white&labelColor=24292f">&nbsp;<img alt="forks" src="https://img.shields.io/badge/forks-12-54aeff?style=flat-square&logo=git&logoColor=white&labelColor=24292f"></nobr> | 万物皆可 Relic · 给灵魂开个 GitHub 🧬<br/>🏆 飞书 CLI 大赛人气赛道第一名 |
 | AI 简历工坊 | | 私有，开发中 |
 | 入戏 | | 沉浸式角色扮演体验，私有 |
 | 几款独立游戏 | | 包括 galgame，开发中 |
