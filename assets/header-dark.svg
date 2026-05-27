@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="掠蓝 Ylsssq926 — AI Product Engineer · Indie Developer · Wuhan">
+  <title>掠蓝 / Ylsssq926</title>
+
+  <rect width="1200" height="240" fill="#0A0A0A"/>
+
+  <text x="60" y="104"
+        font-family="'Songti SC', 'STSong', 'Noto Serif CJK SC', 'Source Han Serif SC', Georgia, serif"
+        font-size="56"
+        font-weight="600"
+        fill="#FAFAFA"
+        letter-spacing="2"
+        text-rendering="geometricPrecision">掠蓝</text>
+
+  <text x="204" y="104"
+        font-family="'JetBrains Mono', 'IBM Plex Mono', 'Geist Mono', 'SF Mono', Menlo, monospace"
+        font-size="24"
+        font-weight="400"
+        fill="#A3A3A3"
+        text-anchor="middle">·</text>
+
+  <text x="232" y="104"
+        font-family="'JetBrains Mono', 'IBM Plex Mono', 'Geist Mono', 'SF Mono', Menlo, monospace"
+        font-size="24"
+        font-weight="400"
+        fill="#E07856"
+        letter-spacing="0.5"
+        text-rendering="geometricPrecision">Ylsssq926</text>
+
+  <text x="60" y="148"
+        font-family="'JetBrains Mono', 'IBM Plex Mono', 'Geist Mono', 'SF Mono', Menlo, monospace"
+        font-size="16"
+        font-weight="400"
+        fill="#A3A3A3"
+        letter-spacing="0.3">AI Product Engineer · Indie Developer · Wuhan</text>
+
+  <line x1="60" y1="176" x2="120" y2="176" stroke="#262626" stroke-width="1" shape-rendering="crispEdges"/>
+
+  <text x="60" y="200"
+        font-family="'JetBrains Mono', 'IBM Plex Mono', 'Geist Mono', 'SF Mono', Menlo, monospace"
+        font-size="13"
+        font-weight="400"
+        fill="#A3A3A3"
+        letter-spacing="0.5">2026 · Wuhan</text>
+
+  <g transform="translate(1100,130)" fill="none">
+    <circle cx="0" cy="0" r="44" stroke="#262626" stroke-width="1"/>
+    <circle cx="0" cy="0" r="24" stroke="#FAFAFA" stroke-width="1"/>
+    <circle cx="12" cy="-12" r="4" fill="#E07856" stroke="none"/>
+  </g>
+</svg>
