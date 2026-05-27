@@ -32,7 +32,7 @@ AI 产品经理，独立开发者，住在武汉。
 | [crit](https://github.com/tomasz-tomczyk/crit) | [#604](https://github.com/tomasz-tomczyk/crit/pull/604) 🟢 | <nobr><a href="https://github.com/tomasz-tomczyk/crit/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/tomasz-tomczyk/crit?style=flat-square&logo=github&logoColor=white&label=stars&labelColor=24292f&color=ffdf5d"></a>&nbsp;<a href="https://github.com/tomasz-tomczyk/crit/forks"><img alt="forks" src="https://img.shields.io/github/forks/tomasz-tomczyk/crit?style=flat-square&logo=git&logoColor=white&label=forks&labelColor=24292f&color=54aeff"></a></nobr> | GitHub-synced comment 徽章 + share schema |
 
 <details>
-<summary>+ 13 more small fixes</summary>
+<summary>+ 11 more small fixes</summary>
 
 | Project | PR | Status | Description |
 |---|---|---|---|
@@ -43,11 +43,9 @@ AI 产品经理，独立开发者，住在武汉。
 | LingChat | [#427](https://github.com/SlimeBoyOwO/LingChat/pull/427) | ✅ | schedule detail back button |
 | Understand-Anything | [#237](https://github.com/Lum1104/Understand-Anything/pull/237) | 🟢 | port 5173 collision fix |
 | Understand-Anything | [#239](https://github.com/Lum1104/Understand-Anything/pull/239) | 🟢 | tsconfig paths resolution fix |
-| Understand-Anything | [#243](https://github.com/Lum1104/Understand-Anything/pull/243) | 🔴 | --exclude CLI flag (declined) |
 | boss-agent-cli | [#248](https://github.com/can4hou6joeng4/boss-agent-cli/pull/248) | ✅ | CONTRIBUTING zh sync |
 | mcpproxy-go | [#531](https://github.com/smart-mcp-proxy/mcpproxy-go/pull/531) | 🟢 | spec 057 in-proxy profiles draft |
 | Pipelex | [#937](https://github.com/Pipelex/pipelex/pull/937) | 🟢 | CLI --traceback flag |
-| Pipelex | [#936](https://github.com/Pipelex/pipelex/pull/936) | 🔴 | --traceback (reopened as #937) |
 | vercel/ai | [#15601](https://github.com/vercel/ai/pull/15601) | 🟢 | google-vertex multi-region endpoint |
 
 </details>
